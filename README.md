@@ -16,7 +16,7 @@ The api provide a `classe` wrapper function.
 ### Basic usage
 
 ```js
-import { React, classe } from 'classe'
+import { React, classe } from 'dallas'
 // classe takes 2 arguments
 // an option and a render function
 const Button = classe('my-button', props => <button {...props} />)
